@@ -1,2 +1,2 @@
-# Specialization Javascript Backend  projects
-This repository contains the solutions to all the projects covered during specialization in the ALX SE Course
+# Backend Specialization Javascript projects
+This repository contains all the javascript projects done during Specialization in the ALX SE course.
